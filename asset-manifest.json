@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Food-Card/static/css/main.12f678f6.css",
+    "main.js": "/Food-Card/static/js/main.fb6e4731.js",
+    "static/js/453.3da07087.chunk.js": "/Food-Card/static/js/453.3da07087.chunk.js",
+    "index.html": "/Food-Card/index.html",
+    "main.12f678f6.css.map": "/Food-Card/static/css/main.12f678f6.css.map",
+    "main.fb6e4731.js.map": "/Food-Card/static/js/main.fb6e4731.js.map",
+    "453.3da07087.chunk.js.map": "/Food-Card/static/js/453.3da07087.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12f678f6.css",
+    "static/js/main.fb6e4731.js"
+  ]
+}
